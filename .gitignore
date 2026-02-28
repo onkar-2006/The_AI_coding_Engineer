@@ -1,0 +1,2 @@
+# This clears the file and adds the essential ignores
+Set-Content .gitignore ".venv/`n.env`n__pycache__/`nnode_modules/`n.DS_Store"
